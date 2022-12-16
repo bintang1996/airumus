@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Xhibiter | NFT Marketplace HTML Template</title>
+    <title>airumus | NFT, APPAREL, & ART</title>
 
     <meta charset="utf-8" />
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
@@ -45,8 +45,8 @@
           >
             <!-- Mobile Logo -->
             <a href="index.html" class="shrink-0">
-              <img src="img/logo.png" class="max-h-7 dark:hidden" alt="Xhibiter | NFT Marketplace" />
-              <img src="img/logo_white.png" class="hidden max-h-7 dark:block" alt="Xhibiter | NFT Marketplace" />
+              <img src="img/logo.png" class="max-h-7 dark:hidden" alt="airumus | NFT Marketplace" />
+              <img src="img/logo_white.png" class="hidden max-h-7 dark:block" alt="airumus | NFT Marketplace" />
             </a>
 
             <!-- Mobile Menu Close -->
